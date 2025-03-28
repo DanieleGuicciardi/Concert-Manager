@@ -38,7 +38,6 @@ namespace APIConcert.Controllers
             if (!result.Succeeded)
                 return BadRequest(result.Errors);
 
-            // Assegna ruolo "Utente" all'iscrizione
             if (!await _roleManager.RoleExistsAsync("Utente"))
                 await _roleManager.CreateAsync(new ApplicationRole { Name = "Utente" });
 
