@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "APIConcert\\appsettings.json",
               "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\appsettings.json",
               "RelativeToolTip": "APIConcert\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-28T13:30:32.936Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "APIConcert\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:30.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:30:30.181Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "APIConcert\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:05.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:30:05.183Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "APIConcert\\Models\\ApplicationRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:00.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:30:00.786Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "APIConcert\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:57.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:29:57.368Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "APIConcert\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:56.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:29:56.221Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "APIConcert\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:51.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:29:51.636Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "APIConcert\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:48.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:29:48.211Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "APIConcert\\Controllers\\EventiController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwEkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:29.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:29:29.706Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "APIConcert\\Controllers\\ArtistiController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:28:57.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:28:57.354Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "APIConcert\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:28:50.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:28:50.43Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "APIConcert\\Controllers\\BigliettiController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwEwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:19:22.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:19:22.467Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "APIConcert\\DTOs\\AcquistoBigliettoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:16:14.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:16:14.954Z"
             }
           ]
         }

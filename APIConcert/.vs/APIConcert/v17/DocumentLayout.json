@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\controllers\\biglietticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\controllers\\biglietticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\dtos\\acquistobigliettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\dtos\\acquistobigliettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\dtos\\acquistobigliettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\dtos\\acquistobigliettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\controllers\\eventicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\controllers\\eventicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\controllers\\artisticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\controllers\\artisticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|c:\\users\\saas\\desktop\\concert-manager\\apiconcert\\apiconcert\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A29DEFE-8A60-4E91-AA67-DA24F3FD489B}|APIConcert\\APIConcert.csproj|solutionrelative:apiconcert\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,159 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\appsettings.json",
-              "RelativeDocumentMoniker": "APIConcert\\appsettings.json",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\appsettings.json",
-              "RelativeToolTip": "APIConcert\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T13:30:32.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "APIConcert\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\WeatherForecast.cs",
-              "RelativeToolTip": "APIConcert\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:30.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Program.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Program.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Program.cs",
-              "RelativeToolTip": "APIConcert\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:05.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Models\\ApplicationRole.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Models\\ApplicationRole.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Models\\ApplicationRole.cs",
-              "RelativeToolTip": "APIConcert\\Models\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:30:00.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "APIConcert\\DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\RegisterDto.cs",
-              "RelativeToolTip": "APIConcert\\DTOs\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:57.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "APIConcert\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "APIConcert\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:56.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "APIConcert\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:51.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "APIConcert\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:48.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventiController.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\EventiController.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Controllers\\EventiController.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\EventiController.cs",
-              "RelativeToolTip": "APIConcert\\Controllers\\EventiController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:29:29.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ArtistiController.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\ArtistiController.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Controllers\\ArtistiController.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\ArtistiController.cs",
-              "RelativeToolTip": "APIConcert\\Controllers\\ArtistiController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:28:57.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "APIConcert\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:28:50.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BigliettiController.cs",
-              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\BigliettiController.cs",
-              "RelativeDocumentMoniker": "APIConcert\\Controllers\\BigliettiController.cs",
-              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\Controllers\\BigliettiController.cs",
-              "RelativeToolTip": "APIConcert\\Controllers\\BigliettiController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwEwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:19:22.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "AcquistoBigliettoDto.cs",
               "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\AcquistoBigliettoDto.cs",
               "RelativeDocumentMoniker": "APIConcert\\DTOs\\AcquistoBigliettoDto.cs",
               "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\AcquistoBigliettoDto.cs",
               "RelativeToolTip": "APIConcert\\DTOs\\AcquistoBigliettoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:16:14.954Z"
+              "WhenOpened": "2025-03-28T13:38:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "APIConcert\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "APIConcert\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:40:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "APIConcert\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\saas\\Desktop\\Concert-Manager\\APIConcert\\APIConcert\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "APIConcert\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:40:28.357Z",
+              "EditorCaption": ""
             }
           ]
         }
